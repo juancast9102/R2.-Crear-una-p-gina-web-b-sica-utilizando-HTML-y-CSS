@@ -1,0 +1,36 @@
+#titulo {
+    display: flex;
+    justify-content: center;
+    color: blue;
+    padding: 2vh;
+    margin: auto;
+
+}
+
+
+.highlight {
+    font-weight: bold;
+    background-color: yellow;
+}
+
+.listaRazones {
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    margin-left: 200px;
+    margin-right: 200px;
+    height: 15vh;
+}
+
+.header {
+    background-color: lightblue;
+}
+.imagen {
+    display: flex;
+    justify-content: center;
+    width: auto;
+    height: auto;
+    
+}
+
