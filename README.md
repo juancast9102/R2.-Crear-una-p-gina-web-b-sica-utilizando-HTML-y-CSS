@@ -1,17 +1,19 @@
 # Mi Trabajo de Ensueño
 
-This project is a simple HTML and CSS webpage about my dream job as a **Backend Developer**.
+Este proyecto es una página web sencilla creada con **HTML y CSS** sobre mi trabajo de ensueño como **programador backend**.
 
-## 📌 Description
+## 📌 Descripción
 
-The webpage explains why I am interested in backend development, including working with servers and the possibility of working from home. It also includes a list of personal goals and requirements related to becoming a backend developer.
+La página explica por qué me interesa trabajar como programador backend, especialmente por el interés en trabajar con servidores y la posibilidad de trabajar desde casa.
 
-## 🛠️ Technologies Used
+También incluye una lista de razones, una tabla con algunos requisitos que necesito cumplir y una imagen relacionada con el desarrollo backend.
+
+## 🛠️ Tecnologías utilizadas
 
 * HTML5
 * CSS3
 
-## 📂 Project Structure
+## 📂 Estructura del proyecto
 
 ```text
 ├── Mi trabajo de sueños.html
@@ -19,21 +21,16 @@ The webpage explains why I am interested in backend development, including worki
 └── backEnd.jpg
 ```
 
-## 🎯 Topics Covered
+## 🎯 Temas utilizados
 
-* HTML page structure
-* CSS styling
-* Lists and tables
-* Images
+* Estructura básica de HTML
+* Estilos con CSS
+* Listas
+* Tablas
+* Imágenes
 * Flexbox
-* Basic webpage layout
+* Organización de contenido
 
-## 🚀 How to Run
-
-1. Download or clone this repository.
-2. Make sure all files are in the same folder.
-3. Open `Mi trabajo de sueños.html` in a web browser.
-
-## 👨‍💻 Author
+## 👨‍💻 Autor
 
 Juan Manuel Castañeda Morales
